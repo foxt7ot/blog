@@ -9,7 +9,7 @@ layout: nil
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>{{ site.url }}/{{ site.tag_page_dir }}/{{ page.tag | slugify }}.html</id>
  <author>
-   <name>Kaustav Das Modak</name>
+   <name>Yaseen</name>
  </author>
  {% for post in page.posts %}
  <entry>

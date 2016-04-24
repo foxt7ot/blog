@@ -16,14 +16,15 @@ Yaseen possess Software Engineering degree though he doesn't find himself as one
 
  He rather like to call himself as a Programmer, who is trying to adheres all disciplines of Programming. He started coding in June 2012 with basics of C, C++ and C++ with essence of QT(He wonders why some people call it cute :p), gradually learned Java(SE && J2EE). Right now he is learning JavaScript as well.
 
->Personal stuff about him:
-He find himself as an introvert who usually talk 
+>Personal stuff about him
+
+He find himself as an introvert w.......
 
 
-<!-- Find him on [Twitter](http://twitter.com/kaustavdm), [Github](https://github.com/kaustavdm), [LinkedIn](http://in.linkedin.com/in/kaustavdm/), [Facebook](https://facebook.com/kaustavdm), [Flickr](http://www.flickr.com/photos/kaustav_das_modak/), [Mozillians](https://mozillians.org/en-US/u/kaustavdm/) or [Telegram](https://telegram.me/kaustavdm).
+<!-- Find him on [Twitter](http://twitter.com/kaustavdm), [Github](https://github.com/kaustavdm), [LinkedIn](http://in.linkedin.com/in/kaustavdm/), [Facebook](https://facebook.com/kaustavdm), [Flickr](http://www.flickr.com/photos/kaustav_das_modak/), [Mozillians](https://mozillians.org/en-US/u/kaustavdm/) or [Telegram](https://telegram.me/kaustavdm).-->
 
 **Get in touch:**
 
-![VCard QR Code](/images/vcard-qrcode.png)
+![VCard QR Code](/images/vcard-qrcode.jpg)
 
-<a href="/static/cv/Kaustav-CV-Dec-2015.pdf" class="button">Download CV</a> -->
+<a href="/static/cv/Yaseen-CV-Apr-2016.pdf" class="button">Download CV</a>
