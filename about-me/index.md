@@ -12,11 +12,11 @@ nav: true
 
 >"Jack of Programming Languages, Master of none"
 
-Yaseen possess Software Engineering degree though he doesn't find himself as one. As according to definition of Software Engineer: A person who creates the designs which programmer implements. Well he definitely passed the exam with good grade(at least according to him) of 7.4 out of 10 but doesn't have in deep knowledge, You might be wondering what were the reasons. Well, there wasn't one in-fact there were many.
+Hi, I am Yaseen, I possess Software Engineering degree though I doesn't find myself as one. As according to definition of Software Engineer: A person who creates the designs which programmer implements. Well I definitely passed the exam with good grade(at least according to me) of 7.4 out of 10 but doesn't have in deep knowledge, You might be wondering what were the reasons. Well, there wasn't one in-fact there were many(soon a blog for this too).
 
- He rather like to call himself as a Programmer, who is trying to adheres all disciplines of Programming. He started coding in June 2012 with basics of C, C++ and C++ with essence of QT(He wonders why some people call it cute :p), gradually learned Java(SE && J2EE). Right now he is learning JavaScript as well.
+ I rather prefer to call myself as a Programmer, who is trying to adheres all disciplines of Programming. I started coding in June 2012 with basics of C, C++ and C++ with essence of QT(I still wonders why some people call it cute :p), gradually learned Java(SE && J2EE). Right now I am learning JavaScript as well.
 
->Personal stuff about him
+>A little bit personal stuff about me
 
 He find himself as an introvert w.......
 
