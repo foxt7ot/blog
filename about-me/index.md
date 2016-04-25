@@ -12,11 +12,11 @@ nav: true
 
 >"Jack of Programming Languages, Master of none"
 
-Greetings Humans, I'm Yaseen, I possess Software Engineering degree though I doesn't consider myself as a Software Engineer. As according to definition of Software Engineer: **A person who creates the designs which programmer implements**. Well I definitely passed the exam with good(at least according to me) grade of 7.4 out of 10 but doesn't have in deep knowledge, You might be wondering what were the reasons. Well, there wasn't one in-fact there were many(soon a blog for this too).
+Greetings Humans, I'm Yaseen, I possess Software Engineering degree though I doesn't consider myself as a Software Engineer. As according to definition of Software Engineer: **A person who creates the designs which programmer implements**. Well I definitely passed the exam with good(at least according to me) grade of 7.4 out of 10 but doesn't have in deep knowledge, You might be wondering what were the reasons. Well, there wasn't one in-fact there were many(soon a blog for this too)
 
  I rather prefer to call myself as a Programmer, who is trying to adheres all disciplines of Programming. I started coding in June 2012 with basics of C, C++ and C++ with essence of QT(I still wonders why some people call it __cute__ :stuck_out_tongue_winking_eye:), gradually learned Java(SE && J2EE). Right now I am learning JavaScript as well as aspiring to make Java my mother tongue and JavaScript my native tongue someday.
 
-***Why this blog?***
+***Why do you blog?***
 Good question, my intentions(I solemnly swear that I am up to no good :stuck_out_tongue:) aren't to make it as a blog, I am thinking to make it as a weblog. As oftenly there comes a time where my memory doesn't serves me well :disappointed: So, I am going to use it as for keeping logs or jotting down the details about what experiments/projects I did, things I tried to learn/failures etcetera. So bear with me as there is going to be a mishmash posts from varying topics. Though I am afraid this will going to scarce of readers but I'll try to keep a balance and maintain peace.
 
 ***Wanna little bit cozy with me, thou shall go forth***
