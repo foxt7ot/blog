@@ -14,12 +14,15 @@ nav: true
 
 Greetings Humans, I'm Yaseen, I possess Software Engineering degree though I doesn't find myself as one. As according to definition of Software Engineer: A person who creates the designs which programmer implements. Well I definitely passed the exam with good grade(at least according to me) of 7.4 out of 10 but doesn't have in deep knowledge, You might be wondering what were the reasons. Well, there wasn't one in-fact there were many(soon a blog for this too).
 
- I rather prefer to call myself as a Programmer, who is trying to adheres all disciplines of Programming. I started coding in June 2012 with basics of C, C++ and C++ with essence of QT(I still wonders why some people call it cute :p), gradually learned Java(SE && J2EE). Right now I am learning JavaScript as well as aspiring to make Java and JavaScript my mother tongue someday.
+ I rather prefer to call myself as a Programmer, who is trying to adheres all disciplines of Programming. I started coding in June 2012 with basics of C, C++ and C++ with essence of QT(I still wonders why some people call it cute :stuck_out_tongue_winking_eye:), gradually learned Java(SE && J2EE). Right now I am learning JavaScript as well as aspiring to make Java my mother tongue and JavaScript my native tongue someday.
 
->Wanna little bit cozy with me
+***Why this blog?***
+Good question, my intentions aren't to make it as a blog, I am thinking to make it as a weblog. As oftenly there comes a time where my memory doesn't serves me well So, I will use it as to keep log or details about what experiment/project I did, things I tried to learn/failure etcetera.
 
-I am an introvert, Well I really am, as according to the fact that "Introverts don't talk unless they have something to say. They hate small talks. Get an Introvert talking about something they are interested in, and they won't shut up for days." I literally fit into this fact. 
+***Wanna little bit cozy with me, thou shall go forth***
+I am an introvert, Well I really am, as according to the __established__ fact that "Introverts don't talk unless they have something to say. They hate small talks. Get an Introvert talking about something they are interested in, and they won't shut up for days." and I literally get fit into this fact. Sometimes I find myself as a clever visual metaphor used to personify the abstract concept of thought.
 
+I hate small talks. I wanna talk about Technologies, Religion, Death, Aliens, Sex(hell no! not in a disgusting way), Magic, Meaning and Virtue of Life, Faraway galaxies, Memories, Music that makes you feel different, The lies you have told, Your flaws, What keeps up you at night, your insecurities and fear. I like people with depth, who speak with emotion from a twisted mind.
 
 <!-- Find him on [Twitter](http://twitter.com/kaustavdm), [Github](https://github.com/kaustavdm), [LinkedIn](http://in.linkedin.com/in/kaustavdm/), [Facebook](https://facebook.com/kaustavdm), [Flickr](http://www.flickr.com/photos/kaustav_das_modak/), [Mozillians](https://mozillians.org/en-US/u/kaustavdm/) or [Telegram](https://telegram.me/kaustavdm).-->
 
