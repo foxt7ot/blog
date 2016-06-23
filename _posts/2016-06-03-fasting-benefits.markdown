@@ -21,5 +21,5 @@ You will experience enhanced energy, clear-mindedness and feel better. On the do
 
 ***Detoxification Stage 4 (Day 16 to Day 30)***
 The body is completely adapted to the fasting process. There is more energy and clarity of mind. Cleansing periods can be short with many days of feeling good in between. There are days when the tongue is pink and the breath is fresh. The healing work of the organs is being completed. After the detoxification mechanisms have removed the causative agent or render it harmless, the body works at maximum capacity in tissue proliferation to replace damaged tissue. After day 20, the mind is affected. Heightened clarity and emotional balance are felt at this time. Memory and concentration improve.
-
 ***~Happy Fasting***
+Facts and finding is copied form the researcher, Mr. Tom McGregor, author of Eating in Freedom
