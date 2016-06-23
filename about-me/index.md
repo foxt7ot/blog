@@ -22,7 +22,7 @@ Good question, my intentions(I solemnly swear that I am up to no good :stuck_out
 ***Wanna little bit cozy with me, thou shall go forth***
 I am an introvert, Well I really am, as according to the __established__ fact that **"Introverts don't talk unless they have something to say. They hate small talks. Get an Introvert talking about something they are interested in, and they won't shut up for days."** and this fact literally confines me. Sometimes I find myself as a clever visual metaphor used to personify the abstract concept of thought.
 
-I hate small talks. I wanna talk about Technologies, Religion(both my favorite topics), Death, Aliens, Sex(Eww no! not in a disgusting way), Magic, Meaning and Virtue of Life, Faraway galaxies, Memories, Music that makes you feel different, The lies you have told, Your flaws, What keeps up you at night, your insecurities and fear. I like people with depth, who speak with emotion from a twisted mind.
+I hate small talks. I wanna talk about Technologies, Religion(both are my favorite topics), Death, Aliens, Sex(Eww no! not in a disgusting way), Magic, Meaning and Virtue of Life, Faraway galaxies, Memories, Music that makes you feel different, The lies you have told, Your flaws, What keeps up you at night, your insecurities and fear. I like people with depth, who speak with emotion from a twisted mind.
 
 Find me on [Twitter](http://twitter.com/foxt7ot), [Github](https://github.com/foxt7ot), [LinkedIn](http://in.linkedin.com/in/foxt7ot), [Facebook](https://facebook.com/myaseenakakhan), [Mozillians](https://mozillians.org/en-US/u/foxt7ot/) or [Telegram](https://telegram.me/foxt7ot).
 
