@@ -12,7 +12,8 @@ And on this nice and shiny day of summer I took decision to move ahead of old bl
 * First and foremost, I am too lazy to do so.
 * BlackBerry 10 is long gone
 * Firefox OS has been shut down. So, as a result there is no use to build custom __gaia__.(If still you are interested ping me on IRC \[sudoname: foxt7ot\])
-* Pootle layout is all changed  
+
+So what exactly you can find in this blog? Mumble-Jumbled posts, yeah that's right. Post on technologies, religions, Movies and what not.
 
 [github]: https://github.com/gh-pages
 [jekyll]: https://jekyllrb.com/
