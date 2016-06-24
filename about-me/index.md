@@ -12,7 +12,9 @@ nav: true
 
 >"Jack of Programming Languages, Master of none"
 
-Greetings Humans, I'm Yaseen, I possess Software Engineering degree though I doesn't consider myself as a Software Engineer. As according to definition of Software Engineer: **A person who creates the designs which programmer implements**. Well I definitely passed the exam with good(at least according to me) grade of 7.4 out of 10 but doesn't have in deep knowledge, You might be wondering what were the reasons. Well, there wasn't one in-fact there were many(soon a blog for this too)
+Greetings Humans, I want to improve my fluency in English, that’s why I’ll commit this blasphemy. To all native and non-native speakers - please forgive me.
+
+Oh! you still here then, Hi! again, I'm Yaseen, I possess Software Engineering degree though I doesn't consider myself as a Software Engineer. As according to definition of Software Engineer: **A person who creates the designs which programmer implements**. Well I definitely passed the exam with good(at least according to me) grade of 7.4 out of 10 but doesn't have in deep knowledge, You might be wondering what were the reasons. Well, there wasn't one in-fact there were many(soon a blog for this too)
 
  I rather prefer to call myself as a Programmer, who is trying to adheres all disciplines of Programming. I started coding in June 2012 with basics of C, C++ and C++ with essence of QT(I still wonders why some people call it __cute__ :stuck_out_tongue_winking_eye:), gradually learned Java(SE && J2EE). Right now I am learning JavaScript as well as aspiring to make Java my mother tongue and JavaScript my native tongue someday.
 
