@@ -31,4 +31,4 @@ Fasting is not an excuse, Although energy levels might be low, the point of fast
 
 That said – we don’t mind if you help work in a nap time for us! :stuck_out_tongue_winking_eye:
 
-[benefits]: {% post_url 2016-06-03-fasting-benefits %}
+[benefits]: {% post_url 2016-06-22-fasting-benefits %}
