@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome Ramadhan"
+title:  "Ramadhan (A programming towards Patience)"
 date:   2016-06-02 14:07:36 +0530
 categories: jekyll update
 tags:
