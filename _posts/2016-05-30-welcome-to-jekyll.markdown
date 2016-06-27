@@ -3,6 +3,8 @@ layout: post
 title:  "This world is so Meta, Even this post is..."
 date:   2016-05-30 14:07:36 +0530
 categories: jekyll update
+comments: true
+disqus_identifier: post-1
 tags:
 - firstpost
 - newSunshine
