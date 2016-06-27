@@ -16,8 +16,8 @@ So here I am writing a way which is easy af through which you can integrate Disq
 *  Create an account on Disqus, [Register][Register] your forum name.
 *  It will land you to an installation page.
 *  Choose "Universal Code" from the "Choose your platform option".
-  It will provide you embed code which you just have to copy and paste it under "_includes" in new file say "disqus.html".
-*  This is the tricky part, as specified on official doc you got to place the code on whichever post you'd like to load Disqus. And we want something like a boolean variable which allows us to load comments and this post and on that post "nope, just don't do that".
+  It will provide you embed code which you just have to copy and paste it under "_includes" in new file, say "disqus.html".
+*  This is the tricky part, as specified on official doc you have to place the code on whichever post you'd like to load Disqus. And we want something like a boolean variable which allows us to load comments on this post and on that post "nope, just don't do that".
 *  Here comes the [Liquid][Liquid] for rescue, just assign
 {% highlight javascript %}
 {% raw %}
