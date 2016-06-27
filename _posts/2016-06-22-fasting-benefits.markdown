@@ -3,6 +3,8 @@ layout: post
 title:  "Fasting Benefits"
 date:   2016-06-22 14:07:36 +0530
 categories: jekyll update
+comments: true
+disqus_identifier: 3b56639e-1147-44ed-bd11-cfad8920ba44
 tags:
 - spiritual
 - religious

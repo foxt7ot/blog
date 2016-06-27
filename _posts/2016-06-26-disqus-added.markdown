@@ -4,7 +4,7 @@ title:  "Yee-haw.. Now you can comment on posts"
 date:   2016-06-26 14:07:36 +0530
 categories: jekyll update
 comments: true
-disqus_identifier: post-4
+disqus_identifier: 6adb8054-382e-4de9-ae7d-807b7d02a5e3
 tags:
 - tutorial
 ---
@@ -43,7 +43,7 @@ this.page.identifier = '{{ page.disqus_identifier }}';
 
 <center><img src="/images/bullshit.gif" /></center>
 <p/>
- time for some explanation. The value which we had assigned to page.identifier is the value which will uniquely going to identify your posts and will gonna load comments accordingly. We have placed a "If" condition in "post.html" which will work only if we are going to declare a variable named as "comments" and assign a true value to it.
+ time for some explanation. The value which we had assigned to page.identifier is the value which will uniquely going to identify your posts and will gonna load comments accordingly. We have placed an "If" condition in "post.html" which will work only if we are going to declare a variable named as "comments" and assign a true value to it.
 
 Also don't forget to add "disqus_identifier" in your posts and define unique value to it. Perhaps you can use GUID for this purpose, **Just my two cents** :blush:
 

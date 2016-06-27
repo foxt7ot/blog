@@ -3,6 +3,8 @@ layout: post
 title:  "Ramadhan (A programming towards Patience)"
 date:   2016-06-02 14:07:36 +0530
 categories: jekyll update
+comments: true
+disqus_identifier: 4a2f0e66-6c0b-48df-8043-b77a7bcfbfba
 tags:
 - spiritual
 - religious
