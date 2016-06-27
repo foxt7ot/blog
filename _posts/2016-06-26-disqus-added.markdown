@@ -8,6 +8,7 @@ disqus_identifier: post-4
 tags:
 - tutorial
 ---
+> ***Now we can play comments-comments on my posts*** :stuck_out_tongue:
 
 I have read ample of blogs which shows how to integrate Disqus with Jekyll but found myself unable to succeed as Disqus has updated their embeded code which provides feasibility to integrate Disqus comments in your post.
 
