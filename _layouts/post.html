@@ -23,3 +23,9 @@ layout: default
   </div>
 
 </article>
+{% if page.comments == true %}
+<section id="comments">
+  <h1 class="title">Comments</h1>
+  {% include disqus.html %}
+</section>
+{% endif %}
