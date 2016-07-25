@@ -4,7 +4,7 @@ comments: false
 date: 2015-04-24 02:33:03+00:00
 layout: page
 slug: about-me
-title: About Yaseen
+title: About Me
 nav: true
 ---
 
@@ -14,7 +14,7 @@ nav: true
 
 Greetings Humans, I want to improve my fluency in English, that’s why I’ll commit this blasphemy. To all native and non-native speakers - please forgive me.
 
-Oh! you still here then, Hi! again, I'm Yaseen, I possess Software Engineering degree though I doesn't consider myself as a Software Engineer. As according to definition of Software Engineer: **A person who creates the designs which programmer implements**. Well I definitely passed the exam with good(at least according to me) grade of 7.4 out of 10 but doesn't have in deep knowledge, You might be wondering what were the reasons. Well, there wasn't one in-fact there were many(soon a blog for this too)
+Oh! you still here then, Hi! again, I'm Yaseen, I possess Software Engineering degree though I doesn't consider myself as a Software Engineer. As according to definition of Software Engineer: **A person who creates the designs which programmer implements**. Well I definitely passed the exam with good(at least according to me) grades of 7.4 out of 10 but doesn't have in deep knowledge, You might be wondering what were the reasons. Well, there wasn't one in-fact there were many(soon a blog for this too)
 
  I rather prefer to call myself as a Programmer, who is trying to adheres all disciplines of Programming. I started coding in June 2012 with basics of C, C++ and C++ with essence of QT(I still wonders why some people call it __cute__ :stuck_out_tongue_winking_eye:), gradually learned Java(SE && J2EE). Right now I am learning JavaScript as well as aspiring to make Java my mother tongue and JavaScript my native tongue someday.
 
@@ -32,4 +32,4 @@ Find me on [Twitter](http://twitter.com/foxt7ot), [Github](https://github.com/fo
 
 ![VCard QR Code](/images/vcard-qrcode.jpg)
 
-<a href="/static/cv/Yaseen-CV-Apr-2016.pdf" class="button">Download CV</a>
+<a href="/static/cv/Resume_Yaseen_Developer.pdf" class="button">Download CV</a>
