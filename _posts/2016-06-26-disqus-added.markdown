@@ -41,7 +41,7 @@ this.page.identifier = '{{ page.disqus_identifier }}';
 
 *  Okay enough bullshit,
 
-<center><img src="/images/bullshit.gif" /></center>
+<center><img src="/images/malfoybulshit.gif" /></center>
 <p/>
  time for some explanation. The value which we had assigned to page.identifier is the value which will uniquely going to identify your posts and will gonna load comments accordingly. We have placed an "If" condition in "post.html" which will work only if we are going to declare a variable named as "comments" and assign a true value to it.
 
