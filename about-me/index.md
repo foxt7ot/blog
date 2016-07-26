@@ -4,7 +4,7 @@ comments: false
 date: 2015-04-24 02:33:03+00:00
 layout: page
 slug: about-me
-title: About Me
+title: About
 nav: true
 ---
 
