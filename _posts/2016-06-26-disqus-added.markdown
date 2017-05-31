@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Yee-haw.. Now you can comment on posts"
+title:  "Thinking about comments!! Yee-haw.. Disqus to the rescue"
 date:   2016-06-26 14:07:36 +0530
 categories: jekyll update
 comments: true
@@ -8,7 +8,7 @@ disqus_identifier: 6adb8054-382e-4de9-ae7d-807b7d02a5e3
 tags:
 - tutorial
 ---
-> ***Now you can play comments-comments on my posts*** :stuck_out_tongue:
+> ***Simplest post to integrate Disqus***
 
 I have read ample of blogs which shows how to integrate Disqus with Jekyll but found myself unable to succeed as Disqus has updated their embeded code which provides feasibility to integrate Disqus comments in your post.
 
@@ -18,7 +18,7 @@ So here I am writing a way which is easy af through which you can integrate Disq
 *  It will land you to an installation page.
 *  Choose "Universal Code" from the "Choose your platform option".
   It will provide you embed code which you just have to copy and paste it under "_includes" in new file, say "disqus.html".
-*  This is the tricky part, as specified on official doc you have to place the code on whichever post you'd like to load Disqus. And we want something like a boolean variable which allows us to load comments on this post and on that post "nope, just don't do that".
+*  This is the tricky part, as specified on official doc you have to place the code on whichever post you'd like to load Disqus. And we want something like a boolean variable which allows us to load comments on this post and on maybe on that post???  _"Ahh! nope, you just don't want to load comments on that one"_.
 *  Here comes the [Liquid][Liquid] for rescue, just assign
 {% highlight javascript %}
 {% raw %}
@@ -39,7 +39,7 @@ this.page.identifier = '{{ page.disqus_identifier }}';
 {% endraw %}
 {% endhighlight %}
 
-*  Okay enough bullshit,
+*  Yeah! I Know what you are thingking _(Okay enough bullshit)_
 
 <center><img src="/images/malfoybulshit.gif" /></center>
 <p/>

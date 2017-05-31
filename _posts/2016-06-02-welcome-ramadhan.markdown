@@ -31,6 +31,6 @@ It’s true — we can’t drink water either. Again, this is part of the Ramada
 Consider holding a Ramadan Iftar dinner. Iftar is the Arabic word for the meal served at sunset when we break the fast (it’s literally our ‘breakfast’). This will be a nice gesture for Muslim coworkers and will give others the opportunity to learn about and partake in Ramadan festivities. Although there is no specific type of meal designated for iftars, it is is tradition to break the fast with a sweet and refreshing date before moving to a full-on dinner.
 Fasting is not an excuse, Although energy levels might be low, the point of fasting is not to slack off from our other duties and responsibilities. We believe that we are rewarded for continuing to work and produce during our fasts. Fasting is not a reason to push meetings, clear schedules, or take a lighter load on projects.
 
-That said – we don’t mind if you help work in a nap time for us! :stuck_out_tongue_winking_eye:
+That said – we won’t mind if you will help us with our work and we can take a nap for some time! :stuck_out_tongue_winking_eye:
 
 [benefits]: {% post_url 2016-06-22-fasting-benefits %}
