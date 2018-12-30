@@ -14,7 +14,7 @@ url: "foxt7ot.github.io" # the base hostname & protocol for your site
 twitter_username: foxt7ot
 github_username:  foxt7ot
 
-gems: [jekyll-paginate, jemoji]
+plugins: [jekyll-paginate, jemoji]
 
 # Site settings
 markdown: kramdown
